@@ -9,4 +9,4 @@ def sum(a,b)
     return a
 
 
-print ("I Added a new function sum which is not correct")
+print ("Added a new function sum which is not correct")
